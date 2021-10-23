@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meewis
 - 👀 I’m interested in electronics and controls
-- 🌱 I’m have a long term experience in all kind of control systems (plc's like Siemens, Telemecanique, AllenBradley, Hitachi, Mitsubishi, PhoenixContact, CoDeSys, Node-Red, etc)
+- 🌱 I’m have a long term experience in all kind of control systems (plc's like Siemens, Telemecanique, AllenBradley, Hitachi, Mitsubishi, PhoenixContact, CoDeSys, Node-Red, etc). But also microcontrollers (8051, ARM, ESP, etc)
 - 📫 If you like my work, feel free to use it but it would be nice to donate me some bitcoins for a coffee ;) And if you have done that I won't hasitate to reply the email you have send me at github(@)meewis(.)net
 - ✨ Coffee donation @ BTC 1HnNLkWEhWw9d9wUohUzfTR68J7FGuGkUj
 - license: MIT
